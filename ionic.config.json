@@ -1,0 +1,7 @@
+{
+  "name": "survey_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
